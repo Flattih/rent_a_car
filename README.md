@@ -6,7 +6,7 @@
 -  Each user can only delete their own posts
 -  Searching
 
-  I thought it was a car rental project, it's halfway done, if you want to contribute, I'm hereference.
+  I thought it was a car rental project, it's halfway done, if you want to contribute, I'm here.
   
   
 
