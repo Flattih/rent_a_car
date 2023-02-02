@@ -1,16 +1,15 @@
-# rent_a_car
+# Core Features
+- NodeJS mail password auth
+-  Adding products by category
+-  Show products by category
+-  Show all products
+-  Each user can only delete their own posts
+-  Searching
 
-A new Flutter project.
+  I thought it was a car rental project, it's halfway done, if you want to contribute, I'm hereference.
+  
+  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/85228645/216362024-912f5b22-84c6-4809-9229-343ac5beddd8.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
